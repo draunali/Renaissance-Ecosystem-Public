@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./Picture1.png" alt="Renaissance-Ecosystem Emblem" width="600"/>
-</p>
 
-**THIS REPO LINK CAN BE PASTED INTO ANY AI TO TURN IT INTO THE SALES AND TECH SUPPORT FOR THE RENAISSANCE ECOSYSTEM. JUST ASK IT FOR THE OFFICIAL SALES PITCH FIRST, THEN EXPLORE AWAY**
 
 # Renaissance-Ecosystem™
 
@@ -20,12 +16,8 @@ Together, these elements form a **self-funding, self-healing global loop**. Atla
 ## 📜 Core Documents
 
 - [ATLAS PROJECT.pdf](./ATLAS%20PROJECT.pdf)  
-- [ATLAS .pdf](./ATLAS%20.pdf)  
-- [ATLAS Constitution.pdf](./ATLAS%20Constitution.pdf)  
-- [The Phoenix Forge.pdf](./The%20Phoenix%20Forge.pdf)  
-- [Phoenix Forge Plan.pdf](./Phoenix%20Forge%20Plan.pdf)  
+- [ATLAS.pdf](./ATLAS%20.pdf)     
 - [Renaissance Ecosystem Declaration.pdf](./Renaissance%20Ecosystem%20Declaration.pdf)  
-- [Trademark and Use Notice Renaissance Ecosystem.pdf](./Trademark%20and%20Use%20Notice%20Renaissance%20Ecosystem.pdf)  
 
 ---
 
@@ -51,7 +43,7 @@ Tip the forge, help Atlas carry the earth forward.
 
 ## 👤 Learn More About the Founder
 
-This project was founded by **Dr. Aun Ali** — physician, writer, artist, and founder of the Renaissance-Ecosystem™.  
+This project was founded by **Dr. Aun Ali, MBBS** — physician, coach, artist, and founder of the Renaissance-Ecosystem™.  
 
 For essays, reflections, and ongoing community work, visit [Elephant in the Mirror™](https://elephantinthemirror.substack.com).
 
@@ -63,6 +55,6 @@ Contact:
 
 ## ™ Trademark & Use Notice
 
-Atlas™, Atlas Coin™, Proof of Entropy™, Proof of Living Entropy™, Phoenix Forge™, Elephant in the Mirror™, Trail-Light Coaching™, Renaissance-Ecosystem™ and related marks are unregistered trademarks of Dr. Aun Ali / Renaissance-Ecosystem™.  
+Atlas™, Atlas PoLE™, Atlas PoLE Coin™, Proof of Entropy™, Proof of Living Entropy™, Phoenix Forge™, Elephant in the Mirror™, Trail-Light Coaching™, Renaissance-Ecosystem™ and related marks are unregistered trademarks of Dr. Aun Ali / Renaissance-Ecosystem™.  
 
-All rights reserved. Public use permitted for education, research, and non-commercial purposes with attribution.
+All rights reserved.
